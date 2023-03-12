@@ -1,0 +1,11 @@
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\bin\Debug\TableManuplatingFromSql.exe.config
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\bin\Debug\TableManuplatingFromSql.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\bin\Debug\TableManuplatingFromSql.pdb
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.csproj.AssemblyReference.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.csproj.SuggestedBindingRedirects.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.Form1.resources
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.Properties.Resources.resources
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.csproj.GenerateResource.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.csproj.CoreCompileInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\C#\TableManuplatingFromSql\TableManuplatingFromSql\obj\Debug\TableManuplatingFromSql.pdb
